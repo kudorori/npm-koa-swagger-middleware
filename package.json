@@ -1,0 +1,32 @@
+{
+  "name": "koa-swagger-middleware",
+  "version": "0.0.1",
+  "description": "koa@v2 swagger middleware \n ",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kudorori/npm-koa-swagger-middleware.git"
+  },
+  "keywords": [
+    "koa-v2",
+    "swagger",
+    "router",
+    "restapi"
+  ],
+  "author": "M.f su",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kudorori/npm-koa-swagger-middleware/issues"
+  },
+  "homepage": "https://github.com/kudorori/npm-koa-swagger-middleware#readme",
+  "dependencies": {
+    "ajv": "^4.9.1",
+    "koa": "^2.0.0",
+    "koa-bodyparser": "^3.2.0",
+    "lodash": "^4.17.2",
+    "swagger-parser": "^3.4.1"
+  }
+}
