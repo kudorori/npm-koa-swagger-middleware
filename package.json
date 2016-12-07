@@ -1,6 +1,6 @@
 {
   "name": "koa-swagger-middleware",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "koa@v2 swagger middleware \n ",
   "main": "lib/index.js",
   "scripts": {
